@@ -13,9 +13,8 @@
 | https://stepik.org/course/76/syllabus Основы статистики         | 06/2022 - 07/2022 |
 | https://stepik.org/course/129/syllabus Анализ данных в R        | 08/2022 - 09/2022 |
 
-</div>
 
-В этом репозитории находятся наиболее важные проекты, сделанные в рамках прохождения обучения в `karpov.courses` по направлению "Аналитик данных", а также мои `pet_projects`. <details> <summary> ⭐ <kbd> Все проекты находятся здесь</kbd> </summary>
+В этом репозитории находятся наиболее важные проекты, сделанные в рамках прохождения обучения в `karpov.courses` по направлению "Аналитик данных", а также мои `pet_projects`. <details> <summary> ⭐ <kbd> Все проекты находятся здесь</kbd> </summary> </details>
 
 ## Требования
 
@@ -36,4 +35,4 @@
 
 * BI-системы [Tableau](https://www.tableau.com/)
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-alexandra_arzhanukhina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexandra_arzhanukhina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexadanchuk@gmail.com)
+### :mailbox: Cвязаться со мной: [![Telegram Badge](https://img.shields.io/badge/-alexandra_arzhanukhina-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexandra_arzhanukhina) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexadanchuk@gmail.com)
